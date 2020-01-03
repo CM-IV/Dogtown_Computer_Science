@@ -67,3 +67,12 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+
+.vscode
+
+.cache
+
+.prettierrc
+
+.prettierignore
