@@ -8,7 +8,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
-import "../pages/_mystyles.scss"
+import "../sass/mystyles.scss"
 
 import Header from "./header"
 

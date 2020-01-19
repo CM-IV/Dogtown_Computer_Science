@@ -3,7 +3,7 @@ import { graphql, useStaticQuery } from "gatsby"
 import Layout from "../components/layout"
 import Image from "gatsby-image"
 import SEO from "../components/seo"
-import "../pages/_mystyles.scss"
+import "../sass/mystyles.scss"
 
 export default () => {
   const data = useStaticQuery(graphql`
@@ -21,7 +21,7 @@ export default () => {
   return (
     <Layout>
       <SEO title="Home" />
-      <h2 class="title is-2">The Digital Frontier</h2>
+      <h3 class="title is-3">The Digital Frontier</h3>
       <div style={{ marginBottom: `1.45rem` }}>
         <Image fluid={data.imageOne.childImageSharp.fluid} alt="unsplash cityscape" />
       </div>
