@@ -3,6 +3,7 @@ module.exports = {
     title: `Dogtown Computer Science`,
     description: `A Computer Science blog made with the barebones gatsby starter.`,
     author: `CMIV`,
+    pathPrefix: `/Dogtown_Computer_Science`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
