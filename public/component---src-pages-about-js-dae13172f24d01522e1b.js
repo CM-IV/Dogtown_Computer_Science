@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"3XHS":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("Bl7J"),c=n("vrFN");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"About"}),l.a.createElement("h1",null,"Welcomen to the about page."),l.a.createElement("p",null,"Created on Friday December 20, 2019"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-dae13172f24d01522e1b.js.map
