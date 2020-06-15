@@ -10,7 +10,7 @@ const About = () => (
         <h1 class="title is-3">About Me</h1>
         <h3 class="title is-4">Charlie with Dogtown Computer Science created this website.</h3>
         <h4 class="title is-4">Business inquiries/questions? Computer IT help? Contact me here.</h4>
-        <a class="button" href="mailto:cmathIV@protonmail.com">Email me</a>
+        <a class="button" href="mailto:cmathIV@protonmail.com">Email Me</a>
         <br />
         <br />
         <a class="button" href="https://docdro.id/rqGcapo">View Resume</a>
