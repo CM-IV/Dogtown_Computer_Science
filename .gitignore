@@ -81,3 +81,5 @@ gatsby-ssr.js
 gatsby-browser.js
 
 package-lock.json
+
+public/

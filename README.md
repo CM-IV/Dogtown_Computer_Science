@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  This website built on top of Gatsby's default starter
+  Dogtown Computer Science
 </h1>
 
 
