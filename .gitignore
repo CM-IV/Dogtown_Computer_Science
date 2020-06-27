@@ -75,3 +75,9 @@ yarn-error.log
 .prettierrc
 
 .prettierignore
+
+gatsby-ssr.js
+
+gatsby-browser.js
+
+package-lock.json
