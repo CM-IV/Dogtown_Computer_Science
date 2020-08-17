@@ -11,7 +11,8 @@ export default function Template ({data}) {
             <Link to="/blog/" class="button">Go back</Link>
             <hr />
             <h1>{post.frontmatter.title}</h1>
-            <h4>Posted by {post.frontmatter.author} on {post.frontmatter.date}</h4>
+            <h2>Posted by {post.frontmatter.author} on {post.frontmatter.date}</h2>
+            <br />
             <div dangerouslySetInnerHTML={{ __html: post.html }} />
         </div>
     )

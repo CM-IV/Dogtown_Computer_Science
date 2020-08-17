@@ -5,7 +5,6 @@ import { graphql } from "gatsby"
 import { Link } from "gatsby"
 import "../sass/mystyles.scss"
 
-
 const Blogpage = ({data}) => (
     <Layout>
         <SEO title="Blog" />
