@@ -34,7 +34,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "css-build": "node-sass --omit-source-map-url sass/mystyles.scss css/mystyles.css",
+    "css-build": "node-sass --omit-source-map-url ./src/sass/mystyles.scss ./src/css/mystyles.css",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",

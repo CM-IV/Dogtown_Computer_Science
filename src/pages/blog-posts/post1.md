@@ -5,7 +5,7 @@ title: "My X79 homelab --- First post"
 author: "CMIV"
 ---
 
-# Hello Internet!
+## Hello Internet!
 
 <br>
 
@@ -17,22 +17,22 @@ that has served me well since 2012 when I first built it.
 
 <br>
 
-## The build
+### The build
 
 ----
 
 Here I will list the server's components, which are subject to change as time marches on:
 
-- CPU --> i7-4820k
-- Motherboard --> Asus Sabertooth X79
-- GPU --> GTX 770
-- RAM --> 16GB DDR3 (This will change)
-- Drives --> Boot & 8TB Storage
-- Case --> Fractal Design
+* CPU --> i7-4820k
+* Motherboard --> Asus Sabertooth X79
+* GPU --> GTX 770
+* RAM --> 16GB DDR3 (This will change)
+* Drives --> Boot & 8TB Storage
+* Case --> Fractal Design
 
 <br>
 
-## Picture
+### Picture
 
 ----
 
@@ -40,12 +40,14 @@ Here I will list the server's components, which are subject to change as time ma
 
 <br>
 
-## Closing Remarks
+### Closing Remarks
 
 ----
 
 I have already started to self host virtual machines with cool software within them.
 
 More will come in the near future!
+
+<br>
 
 **CMIV**

@@ -8,7 +8,7 @@ const Header = ({ siteTitle }) => (
     <div class="container">
       <div class="navbar-brand">
         <Link to="/" class="navbar-item">
-          <h3 class="title is-3">{siteTitle}</h3>
+          <h2 class="title is-2">{siteTitle}</h2>
         </Link>
       </div>
       <div id="navMenu"class="navbar-menu is-active">
