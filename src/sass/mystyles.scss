@@ -6,13 +6,13 @@
 // Set your brand colors
 $red: hsl(348, 100%, 61%);
 $pink: #FA7C91;
-$brown: #757763;
+$black: #000000;
 $beige-light: #D0D1CD;
 $beige-lighter: #EFF0EB;
 
 // Update Bulma's global variables
 $family-sans-serif: "Roboto Mono", sans-serif;
-$grey-dark: $brown;
+$text-color: $black;
 $grey-light: $beige-light;
 $primary: $red;
 $link: $red;

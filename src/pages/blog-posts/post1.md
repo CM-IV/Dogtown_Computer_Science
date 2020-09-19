@@ -5,9 +5,9 @@ title: "My X79 homelab --- First post"
 author: "CMIV"
 ---
 
-## Hello Internet!
+<b>Hello Internet!</b>
 
-<br>
+----
 
 This is my first blog post that will showcase my local data server/homelab that I have built from parts
 collected over the years.
@@ -15,32 +15,33 @@ collected over the years.
 I will include a picture showcasing the build itself, which makes use of my old X79 machine
 that has served me well since 2012 when I first built it.
 
-<br>
+----
 
-### The build
+<b>The build</b>
 
 ----
 
 Here I will list the server's components, which are subject to change as time marches on:
-
-* CPU --> i7-4820k
-* Motherboard --> Asus Sabertooth X79
-* GPU --> GTX 770
-* RAM --> 16GB DDR3 (This will change)
-* Drives --> Boot & 8TB Storage
-* Case --> Fractal Design
-
-<br>
-
-### Picture
+```
+ CPU --> i7-4820k
+ Motherboard --> Asus Sabertooth X79
+ GPU --> GTX 770
+ RAM --> 16GB DDR3 (This will change)
+ Drives --> Boot & 8TB Storage
+ Case --> Fractal Design
+ ```
 
 ----
 
-![Homelab server](../../images/IMG_20191225_165241-min.jpg)*Beast-Server*
+<b>Picture</b>
 
-<br>
+----
 
-### Closing Remarks
+![Homelab server](../../images/IMG_20191225_165241-min.jpg)
+
+----
+
+<b>Closing Remarks</b>
 
 ----
 
@@ -48,6 +49,6 @@ I have already started to self host virtual machines with cool software within t
 
 More will come in the near future!
 
-<br>
+----
 
 **CMIV**
