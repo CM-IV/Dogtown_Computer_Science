@@ -36,7 +36,7 @@ const Layout = ({ children }) => {
         }}>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, CMIV | Built with
+          Copyleft {new Date().getFullYear()}, CMIV | Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
