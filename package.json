@@ -32,7 +32,7 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
+  "license": "GPLv3",
   "scripts": {
     "css-build": "node-sass --omit-source-map-url ./src/sass/mystyles.scss ./src/css/mystyles.css",
     "build": "gatsby build",
